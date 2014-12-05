@@ -1,6 +1,6 @@
 {
   "name": "gael",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Application services",
   "main": "node index",
   "scripts": {
