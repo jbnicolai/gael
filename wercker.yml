@@ -8,10 +8,3 @@ build:
     steps:
         - npm-install
         - npm-test
-
-    after-steps:
-        - eiel/pretty-slack-notify:
-            team: endurancecafe
-            token: $SLACK_API_TOKEN
-            channel: build
-            username: build
