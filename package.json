@@ -1,6 +1,6 @@
 {
   "name": "ministry",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Cross-cutting application services",
   "main": "node index",
   "scripts": {
