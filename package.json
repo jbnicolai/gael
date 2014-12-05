@@ -1,6 +1,6 @@
 {
   "name": "gael",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Cross-cutting application services",
   "main": "node index",
   "scripts": {
