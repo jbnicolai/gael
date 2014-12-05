@@ -1,7 +1,7 @@
 {
   "name": "gael",
-  "version": "0.2.2",
-  "description": "Cross-cutting application services",
+  "version": "0.2.3",
+  "description": "Application services",
   "main": "node index",
   "scripts": {
     "test": "grunt test"
