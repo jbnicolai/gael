@@ -1,5 +1,5 @@
 {
-  "name": "ministry",
+  "name": "gael",
   "version": "0.1.7",
   "description": "Cross-cutting application services",
   "main": "node index",
@@ -13,7 +13,7 @@
   "author": "Johnny Hall",
   "repository": {
     "type": "git",
-    "url": "git@github.com:recipher/ministry.git"
+    "url": "git@github.com:recipher/gael.git"
   },
   "dependencies": {
     "async": "^0.9.0",

@@ -1,4 +1,4 @@
-### Ministry.js Application Services
+### Gael Application Services
 
 ## Prerequisites
 
